@@ -1,1 +1,1 @@
-# Stock-Classification-using-SARIMA
+# Stock-Prediction-using-SARIMA
